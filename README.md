@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230038
+# Name: BUSHPIKA C
+# Date: 24.11.2026
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1920" height="1080" alt="Screenshot 2026-10-21 134110" src="https://github.com/user-attachments/assets/4b32100c-d5b7-4586-9266-0206428ddb08" />
 
 
 
@@ -59,6 +60,8 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f14aca6d-bb65-4250-a72e-01cf8c95f9c6" />
 
 
 
@@ -80,6 +83,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1920" height="1080" alt="Screenshot 2026-11-04 134959" src="https://github.com/user-attachments/assets/fec5c9cc-4701-40d7-9884-be72f9b7cfc9" />
 
 
 
@@ -99,6 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c0aa2e2-c6ff-4cf8-917c-6b79bb867ffe" />
 
 
 
@@ -120,6 +125,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/80316146-355d-4cf8-9505-5d4818390acb" />
 
 
 
